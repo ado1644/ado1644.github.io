@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap 101 Template</title>
+
+    <!-- Bootstrap -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- current -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9417894331762271"
+     data-ad-slot="3049699213"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p>
+The Big Bang Theory is an American sitcom created by Chuck Lorre and Bill Prady, both of whom serve as executive producers on the show along with Steven Molaro. All three also serve as head writers. It premiered on CBS on September 24, 2007. The eighth season premiered on September 22, 2014.
+
+The show is primarily centered on five characters living in Pasadena, California: roommates Leonard Hofstadter and Sheldon Cooper, both physicists; Penny, a waitress and aspiring actress who lives across the hall; and Leonard and Sheldon's equally geeky and socially awkward friends and co-workers, mechanical engineer Howard Wolowitz and astrophysicist Raj Koothrappali. The geekiness and intellect of the four guys is contrasted for comic effect with Penny's social skills and common sense.
+
+Over time, supporting characters have been promoted to starring roles: Leslie Winkle, a physicist colleague at Caltech and, at different times, a lover of both Leonard and Howard; Bernadette Rostenkowski, Howard's girlfriend (later his wife), a microbiologist and former part-time waitress alongside Penny; neuroscientist Amy Farrah Fowler, who joins the group after being matched to Sheldon on a dating website (and later becomes Sheldon's girlfriend); and Stuart Bloom, the cash-strapped owner of the comic book store the characters often visit.
+
+In February 2014, CBS CEO Les Moonves confirmed an eighth season, when announcing the first portion of the new season would air on a different night, due to CBS acquiring the rights to Thursday Night Football games. In March 2014, CBS once again renewed the show for three additional years – including the previously confirmed eighth season – through the 2016–17 television season. In May 2014, CBS announced at its annual upfront presentation, that the series would begin its eighth season on Mondays, before returning to the Thursday slot it has held since 2010, once the football games end in late October. In August 2014, the five original cast members all signed new contracts.
+
+
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=adnandzebicco-20&marketplace=amazon&region=US&placement=B00FEVZ960&asins=B00FEVZ960&linkId=6KNA3N64DWHB7W7G&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=adnandzebicco-20&marketplace=amazon&region=US&placement=B00AQN09VQ&asins=B00AQN09VQ&linkId=I2UKRVTZHKDW5KB2&show_border=true&link_opens_in_new_window=true">
+</iframe>
+
+<div class="row">
+  <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img data-src="holder.js/100%x180" alt="...">
+    </a>
+  <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img data-src="holder.js/100%x180" alt="...">
+    </a>
+  <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img data-src="holder.js/100%x180" alt="...">
+    </a>
+  <div class="col-xs-6 col-md-3">
+    <a href="#" class="thumbnail">
+      <img data-src="holder.js/100%x180" alt="...">
+    </a>
+  </div>
+  ...
+</div>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- current -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9417894331762271"
+     data-ad-slot="3049699213"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="assets/js/bootstrap.min.js"></script>
+  </body>
+</html>
